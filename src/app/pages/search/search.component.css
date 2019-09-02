@@ -1,0 +1,36 @@
+#slider{
+  display: block;
+  background: none;
+  text-align: center;
+  width: 60%;
+  float: left;
+
+}
+
+#logocaribe{
+  display: block;
+  width: 35%;
+  float: right;
+}
+#equiposcaribe{
+  width: 100%;
+  margin: auto;
+}
+
+#clearfix{
+  display: block;
+  clear: both;
+
+}
+h1{
+  text-align: center;
+   font-size: 1.4rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+.au-mt-2 {
+  margin-top: 0.3rem;
+}
